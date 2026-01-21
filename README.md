@@ -34,6 +34,7 @@ This repository contains:
 
 ## Repository Structure
 
+````
 ilo/
 ├─ README.md
 ├─ LICENSE.md
@@ -49,7 +50,7 @@ ilo/
 ├─ scripts/
 ├─ examples/
 └─ INTERNAL/ (PRIVATE — NOT PUBLIC)
-
+````
 
 ---
 
