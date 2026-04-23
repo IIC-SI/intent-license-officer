@@ -21,7 +21,7 @@ This page exists to ensure that all public observers, collaborators, and audienc
 | **Current Tier** | **Silver Intent License** |
 | **Governing Body** | Intent Integrity Council for Synthetic Intelligence (IICSI) |
 | **Custody Under** | Writistic Studios and OpenNHE |
-| **License Owner** | [Pratham Prateek Mohanty](https://github.com/nhe-projects) |
+| **License Owner** | [Pratham Prateek Mohanty]((https://www.linkedin.com/in/pratham-prateek-mohanty/)) |
 | **License Category** | Individual/Personal License (For Admin/License Owner), Commercial License (for Custody Under Orgs) |
 | **Public Status** | ACTIVE |
 | **Compliance Status** | FULLY CERTIFIED AND SAFE TO INTERACT |
